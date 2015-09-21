@@ -2,3 +2,4 @@ db
 nsqd*
 twittervotes/twittervotes
 counter/counter
+api/api
